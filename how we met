@@ -1,0 +1,8 @@
+private class luv():
+
+def firstMeet():
+	print("who is this awesome creature?!)
+
+
+mateStory=firstMeet()
+mateStory.firstMeet()
